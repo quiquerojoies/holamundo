@@ -13,13 +13,7 @@ public class HolaMundo {
 	 * @param args parámetros para el main
 	 */
 	public static void main(String[] args) {
-		//este es un comentario hasta el final de la línea
-		/*
-		 * este es un 
-		 * comentario
-		 * de varias 
-		 * líneas
-		 */
+		
 		System.out.println("Hola queridos amiguitos de primero de DAM");
 
 	}
