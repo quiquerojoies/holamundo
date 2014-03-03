@@ -15,6 +15,7 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		
 		System.out.println("Hola queridos amiguitos de primero de DAM");
+		System.out.println("Adiós");
 
 	}
 
