@@ -16,6 +16,7 @@ public class HolaMundo {
 		
 		System.out.println("Hola queridos amiguitos de primero de DAM");
 		System.out.println("Adiós");
+		System.out.println("________________");
 
 	}
 
