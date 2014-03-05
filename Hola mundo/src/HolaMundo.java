@@ -25,6 +25,9 @@ public class HolaMundo {
 		nombre = teclado.nextLine();
 		System.out.println("Hola querido "+nombre+", habitante del mundo mundial");
 		System.out.println("Adiós");
+		for (int i = 0; i < 10; i++) {
+			System.out.println("Hola "+nombre);
+		}
 
 	}
 
