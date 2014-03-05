@@ -1,5 +1,5 @@
 
-public class Persona {
+public class Persona  implements Comparable<Persona>{
 
 	private String nombre;
 	public Persona() {
@@ -28,6 +28,13 @@ public class Persona {
 	public String toString() {
 		return "Persona [nombre=" + nombre + "]";
 	}
+	@Override
+	public int compareTo(Persona arg0) {
+		
+		return this.nombre.compareTo(arg0.nombre);
+	}
+	
+
 	
 	
 
