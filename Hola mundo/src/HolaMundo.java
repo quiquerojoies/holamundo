@@ -32,6 +32,7 @@ public class HolaMundo {
 		System.out.println("Comentario en master nuevo");
 		System.out.println("Este comentario lo hemos metido en la rama nueva3");
 		System.out.println("Intento de modificación.");
+		System.out.println("Intento de modificación2.");
 	}
 
 }
